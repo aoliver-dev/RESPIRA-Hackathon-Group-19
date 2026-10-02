@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+data/reto_fibrosis_pulmonar_dataset_participantes.tsv
+data/reto_fibrosis_pulmonar_dataset_participantes.xlsx

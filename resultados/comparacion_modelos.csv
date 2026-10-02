@@ -1,0 +1,4 @@
+model,OOF_AUC
+Clinical (all baseline),0.9369809523809524
+Clinical + 2 proteins,0.9507619047619047
+Clinical + 4 proteins,0.9557619047619048
